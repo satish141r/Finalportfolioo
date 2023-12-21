@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c61b2f0.css",
+    "main.js": "/static/js/main.7b46c5f7.js",
+    "static/media/remixicon.svg?t=1681573354175": "/static/media/remixicon.7b85b7f8453487681fc4.svg",
+    "static/media/project4.png": "/static/media/project4.84c4a1612773d228c34a.png",
+    "static/media/Project1.png": "/static/media/Project1.fa2c351fd62724edf140.png",
+    "static/media/Project2.png": "/static/media/Project2.ce5fa49fb4608869d8e1.png",
+    "static/media/remixicon.eot?t=1681573354175": "/static/media/remixicon.ae7015155af44fd22375.eot",
+    "static/media/remixicon.ttf?t=1681573354175": "/static/media/remixicon.8df75b42f93ef0e1f8aa.ttf",
+    "static/media/Project3.png": "/static/media/Project3.7ce402198ce8290c5da7.png",
+    "static/media/pp.jpg": "/static/media/pp.42f4785676adc4082f54.jpg",
+    "static/media/remixicon.woff?t=1681573354175": "/static/media/remixicon.56b6495e17f23a23803a.woff",
+    "static/media/remixicon.woff2?t=1681573354175": "/static/media/remixicon.52f02e1386dd3597bc00.woff2",
+    "static/media/Satish_raibagi_cse.pdf": "/static/media/Satish_raibagi_cse.6dfd29e261db70c4e8a4.pdf",
+    "static/media/MongoDB_Logo.svg.png": "/static/media/MongoDB_Logo.svg.afd7d3a228e8fd307689.png",
+    "static/media/ISO_C++_Logo.svg.png": "/static/media/ISO_C++_Logo.svg.9ee9755b83ae8c84e864.png",
+    "static/media/nodejslogo.svg": "/static/media/nodejslogo.83b187c067da78380a26f426b5cae4b9.svg",
+    "static/media/react.svg": "/static/media/react.286f296c576fece03c93d6e911613424.svg",
+    "static/media/javascript.svg": "/static/media/javascript.fb00e4f50c90568eec29ef5947031682.svg",
+    "static/media/html.svg": "/static/media/html.2e79b3d517a00415673023a919d9f89c.svg",
+    "index.html": "/index.html",
+    "main.6c61b2f0.css.map": "/static/css/main.6c61b2f0.css.map",
+    "main.7b46c5f7.js.map": "/static/js/main.7b46c5f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c61b2f0.css",
+    "static/js/main.7b46c5f7.js"
+  ]
+}
